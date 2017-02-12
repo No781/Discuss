@@ -17,6 +17,9 @@
     <nav class="light-blue">
       <div class="nav-wrapper container">
         <a href="#" class="brand-logo">Components</a>
+        <div class="right">
+          <a href="/auth/github">Login with Github</a>
+        </div>
       </div>
     </nav>
     <div class="container">
